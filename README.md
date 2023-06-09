@@ -4,5 +4,5 @@
 
 ## (example) go run main.go
 
-## (example) go run main.go a
+## (example) go run main.go -a
 
